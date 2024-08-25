@@ -1,0 +1,194 @@
+iso2,member,iso3,region,unga_region_group
+AD,Andorra,AND,Europe & Central Asia,WEOG
+AE,United Arab Emirates,ARE,Middle East & North Africa,APG
+AF,Afghanistan,AFG,South Asia,APG
+AG,Antigua And Barbuda,ATG,Latin America & Caribbean,GRULAC
+AL,Albania,ALB,Europe & Central Asia,EEG
+AM,Armenia,ARM,Europe & Central Asia,EEG
+AO,Angola,AGO,Sub-Saharan Africa,AG
+AR,Argentina,ARG,Latin America & Caribbean,GRULAC
+AT,Austria,AUT,Europe & Central Asia,WEOG
+AU,Australia,AUS,East Asia & Pacific,WEOG
+AZ,Azerbaijan,AZE,Europe & Central Asia,EEG
+BA,Bosnia And Herzegovina,BIH,Europe & Central Asia,EEG
+BB,Barbados,BRB,Latin America & Caribbean,GRULAC
+BD,Bangladesh,BGD,South Asia,APG
+BE,Belgium,BEL,Europe & Central Asia,WEOG
+BF,Burkina Faso,BFA,Sub-Saharan Africa,AG
+BG,Bulgaria,BGR,Europe & Central Asia,EEG
+BH,Bahrain,BHR,Middle East & North Africa,APG
+BI,Burundi,BDI,Sub-Saharan Africa,AG
+BJ,Benin,BEN,Sub-Saharan Africa,AG
+BN,Brunei Darussalam,BRN,East Asia & Pacific,APG
+BO,Bolivia,BOL,Latin America & Caribbean,GRULAC
+BR,Brazil,BRA,Latin America & Caribbean,GRULAC
+BS,Bahamas,BHS,Latin America & Caribbean,GRULAC
+BT,Bhutan,BTN,South Asia,APG
+BW,Botswana,BWA,Sub-Saharan Africa,AG
+BY,Belarus,BLR,Europe & Central Asia,EEG
+BZ,Belize,BLZ,Latin America & Caribbean,GRULAC
+CA,Canada,CAN,North America,WEOG
+CD,Democratic Republic of Congo,COD,Sub-Saharan Africa,AG
+CF,Central African Republic,CAF,Sub-Saharan Africa,AG
+CG,Congo,COG,Sub-Saharan Africa,AG
+CH,Switzerland,CHE,Europe & Central Asia,WEOG
+CI,Ivory Coast,CIV,Sub-Saharan Africa,AG
+CL,Chile,CHL,Latin America & Caribbean,GRULAC
+CM,Cameroon,CMR,Sub-Saharan Africa,AG
+CN,China,CHN,East Asia & Pacific,APG
+CO,Colombia,COL,Latin America & Caribbean,GRULAC
+CR,Costa Rica,CRI,Latin America & Caribbean,GRULAC
+CU,Cuba,CUB,Latin America & Caribbean,GRULAC
+CV,Cape Verde,CPV,Sub-Saharan Africa,AG
+CY,Cyprus,CYP,Europe & Central Asia,APG
+CZ,Czech Republic,CZE,Europe & Central Asia,EEG
+DE,Germany,DEU,Europe & Central Asia,WEOG
+DJ,Djibouti,DJI,Middle East & North Africa,AG
+DK,Denmark,DNK,Europe & Central Asia,WEOG
+DM,Dominica,DMA,Latin America & Caribbean,GRULAC
+DO,Dominican Republic,DOM,Latin America & Caribbean,GRULAC
+DZ,Algeria,DZA,Middle East & North Africa,AG
+EC,Ecuador,ECU,Latin America & Caribbean,GRULAC
+EE,Estonia,EST,Europe & Central Asia,EEG
+EG,Egypt,EGY,Middle East & North Africa,AG
+ER,Eritrea,ERI,Sub-Saharan Africa,AG
+ES,Spain,ESP,Europe & Central Asia,WEOG
+ET,Ethiopia,ETH,Sub-Saharan Africa,AG
+FI,Finland,FIN,Europe & Central Asia,WEOG
+FJ,Fiji,FJI,East Asia & Pacific,APG
+FM,"Micronesia, Federated States Of",FSM,East Asia & Pacific,APG
+FR,France,FRA,Europe & Central Asia,WEOG
+GA,Gabon,GAB,Sub-Saharan Africa,AG
+GB,United Kingdom,GBR,Europe & Central Asia,WEOG
+GD,Grenada,GRD,Latin America & Caribbean,GRULAC
+GE,Georgia,GEO,Europe & Central Asia,EEG
+GH,Ghana,GHA,Sub-Saharan Africa,AG
+GM,Gambia,GMB,Sub-Saharan Africa,AG
+GN,Guinea,GIN,Sub-Saharan Africa,AG
+GQ,Equatorial Guinea,GNQ,Sub-Saharan Africa,AG
+GR,Greece,GRC,Europe & Central Asia,WEOG
+GT,Guatemala,GTM,Latin America & Caribbean,GRULAC
+GW,Guinea-bissau,GNB,Sub-Saharan Africa,AG
+GY,Guyana,GUY,Latin America & Caribbean,GRULAC
+HN,Honduras,HND,Latin America & Caribbean,GRULAC
+HR,Croatia,HRV,Europe & Central Asia,EEG
+HT,Haiti,HTI,Latin America & Caribbean,GRULAC
+HU,Hungary,HUN,Europe & Central Asia,EEG
+ID,Indonesia,IDN,East Asia & Pacific,APG
+IE,Ireland,IRL,Europe & Central Asia,WEOG
+IL,Israel,ISR,Middle East & North Africa,WEOG
+IN,India,IND,South Asia,APG
+IQ,Iraq,IRQ,Middle East & North Africa,APG
+IR,Iran,IRN,Middle East & North Africa,APG
+IS,Iceland,ISL,Europe & Central Asia,WEOG
+IT,Italy,ITA,Europe & Central Asia,WEOG
+JM,Jamaica,JAM,Latin America & Caribbean,GRULAC
+JO,Jordan,JOR,Middle East & North Africa,APG
+JP,Japan,JPN,East Asia & Pacific,APG
+KE,Kenya,KEN,Sub-Saharan Africa,AG
+KG,Kyrgyzstan,KGZ,Europe & Central Asia,APG
+KH,Cambodia,KHM,East Asia & Pacific,APG
+KI,Kiribati,KIR,East Asia & Pacific,APG
+KM,Comoros,COM,Sub-Saharan Africa,AG
+KN,St. Kitts And Nevis,KNA,Latin America & Caribbean,GRULAC
+KP,North Korea,PRK,East Asia & Pacific,APG
+KR,South Korea,KOR,East Asia & Pacific,APG
+KW,Kuwait,KWT,Middle East & North Africa,APG
+KZ,Kazakhstan,KAZ,Europe & Central Asia,APG
+LA,Laos,LAO,East Asia & Pacific,APG
+LB,Lebanon,LBN,Middle East & North Africa,APG
+LC,St. Lucia,LCA,Latin America & Caribbean,GRULAC
+LI,Liechtenstein,LIE,Europe & Central Asia,WEOG
+LK,Sri Lanka,LKA,South Asia,APG
+LR,Liberia,LBR,Sub-Saharan Africa,AG
+LS,Lesotho,LSO,Sub-Saharan Africa,AG
+LT,Lithuania,LTU,Europe & Central Asia,EEG
+LU,Luxembourg,LUX,Europe & Central Asia,WEOG
+LV,Latvia,LVA,Europe & Central Asia,EEG
+LY,Libya,LBY,Middle East & North Africa,AG
+MA,Morocco,MAR,Middle East & North Africa,AG
+MC,Monaco,MCO,Europe & Central Asia,WEOG
+MD,Moldova,MDA,Europe & Central Asia,EEG
+ME,Montenegro,MNE,Europe & Central Asia,EEG
+MG,Madagascar,MDG,Sub-Saharan Africa,AG
+MH,Marshall Islands,MHL,East Asia & Pacific,APG
+MK,North Macedonia,MKD,Europe & Central Asia,EEG
+ML,Mali,MLI,Sub-Saharan Africa,APG
+MM,Myanmar,MMR,East Asia & Pacific,WEOG
+MN,Mongolia,MNG,East Asia & Pacific,APG
+MR,Mauritania,MRT,Sub-Saharan Africa,APG
+MT,Malta,MLT,Middle East & North Africa,AG
+MU,Mauritius,MUS,Sub-Saharan Africa,AG
+MV,Maldives,MDV,South Asia,APG
+MW,Malawi,MWI,Sub-Saharan Africa,AG
+MX,Mexico,MEX,Latin America & Caribbean,GRULAC
+MY,Malaysia,MYS,East Asia & Pacific,APG
+MZ,Mozambique,MOZ,Sub-Saharan Africa,AG
+NA,Namibia,NA,NA,AG
+NE,Niger,NER,Sub-Saharan Africa,AG
+NG,Nigeria,NGA,Sub-Saharan Africa,AG
+NI,Nicaragua,NIC,Latin America & Caribbean,GRULAC
+NL,Netherlands,NLD,Europe & Central Asia,WEOG
+NO,Norway,NOR,Europe & Central Asia,WEOG
+NP,Nepal,NPL,South Asia,APG
+NR,Nauru,NRU,East Asia & Pacific,APG
+NZ,New Zealand,NZL,East Asia & Pacific,WEOG
+OM,Oman,OMN,Middle East & North Africa,APG
+PA,Panama,PAN,Latin America & Caribbean,GRULAC
+PE,Peru,PER,Latin America & Caribbean,GRULAC
+PG,Papua New Guinea,PNG,East Asia & Pacific,APG
+PH,Philippines,PHL,East Asia & Pacific,GRULAC
+PK,Pakistan,PAK,South Asia,APG
+PL,Poland,POL,Europe & Central Asia,APG
+PT,Portugal,PRT,Europe & Central Asia,EEG
+PW,Palau,PLW,East Asia & Pacific,WEOG
+PY,Paraguay,PRY,Latin America & Caribbean,APG
+QA,Qatar,QAT,Middle East & North Africa,APG
+RO,Romania,ROU,Europe & Central Asia,EEG
+RS,Serbia,SRB,Europe & Central Asia,EEG
+RU,Russia,RUS,Europe & Central Asia,EEG
+RW,Rwanda,RWA,Sub-Saharan Africa,AG
+SA,Saudi Arabia,SAU,Middle East & North Africa,APG
+SB,Solomon Islands,SLB,East Asia & Pacific,APG
+SC,Seychelles,SYC,Sub-Saharan Africa,APG
+SD,Sudan,SDN,Sub-Saharan Africa,APG
+SE,Sweden,SWE,Europe & Central Asia,AG
+SG,Singapore,SGP,East Asia & Pacific,WEOG
+SI,Slovenia,SVN,Europe & Central Asia,APG
+SK,Slovakia,SVK,Europe & Central Asia,EEG
+SL,Sierra Leone,SLE,Sub-Saharan Africa,EEG
+SM,San Marino,SMR,Europe & Central Asia,AG
+SN,Senegal,SEN,Sub-Saharan Africa,WEOG
+SO,Somalia,SOM,Sub-Saharan Africa,AG
+SR,Suriname,SUR,Latin America & Caribbean,AG
+SS,South Sudan,SSD,Sub-Saharan Africa,GRULAC
+ST,Sao Tome And Principe,STP,Sub-Saharan Africa,AG
+SV,El Salvador,SLV,Latin America & Caribbean,AG
+SY,Syrian Arab Republic,SYR,Middle East & North Africa,GRULAC
+SZ,Swaziland,SWZ,Sub-Saharan Africa,APG
+TD,Chad,TCD,Sub-Saharan Africa,AG
+TG,Togo,TGO,Sub-Saharan Africa,AG
+TH,Thailand,THA,East Asia & Pacific,AG
+TJ,Tajikistan,TJK,Europe & Central Asia,APG
+TL,East Timor,TLS,East Asia & Pacific,APG
+TM,Turkmenistan,TKM,Europe & Central Asia,APG
+TN,Tunisia,TUN,Middle East & North Africa,APG
+TO,Tonga,TON,East Asia & Pacific,AG
+TR,Turkey,TUR,Europe & Central Asia,APG
+TT,Trinidad And Tobago,TTO,Latin America & Caribbean,WEOG
+TV,Tuvalu,TUV,East Asia & Pacific,GRULAC
+TZ,Tanzania,TZA,Sub-Saharan Africa,APG
+UA,Ukraine,UKR,Europe & Central Asia,AG
+UG,Uganda,UGA,Sub-Saharan Africa,EEG
+US,United States,USA,North America,AG
+UY,Uruguay,URY,Latin America & Caribbean,WEOG
+UZ,Uzbekistan,UZB,Europe & Central Asia,GRULAC
+VC,St. Vincent And The Grenadines,VCT,Latin America & Caribbean,APG
+VE,Venezuela,VEN,Latin America & Caribbean,GRULAC
+VN,Viet Nam,VNM,East Asia & Pacific,GRULAC
+VU,Vanuatu,VUT,East Asia & Pacific,APG
+WS,Samoa,WSM,East Asia & Pacific,APG
+YE,Yemen,YEM,Middle East & North Africa,APG
+ZA,South Africa,ZAF,Sub-Saharan Africa,AG
+ZM,Zambia,ZMB,Sub-Saharan Africa,AG
+ZW,Zimbabwe,ZWE,Sub-Saharan Africa,AG
